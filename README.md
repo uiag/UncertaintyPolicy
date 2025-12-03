@@ -1,7 +1,7 @@
 # Uncertainty-Aware Hallucination Detection and Clarifying-Question Policy for LLMs
 The project Uncertainty-Aware Hallucination Detection and Clarifying-Question Policy for LLMs tests whether uncertainty signals in LLM outputs can drive a useful policy to decide between answering, clarifying and abstaining. This project was part of the course Natural Language Processing at Seoul National University in Fall 2025
 
-<p float="left">
+<p float="center">
   <img src="https://github.com/uiag/UncertaintyPolicy/blob/main/results/FLanT5-base/action_distr_LightGBM.png?raw=true" width="45%" />
   <img src="https://github.com/uiag/UncertaintyPolicy/blob/main/results/FLanT5-base/eu_policy_LightGBM.png?raw=true" width="45%" />
 </p>
