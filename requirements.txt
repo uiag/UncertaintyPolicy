@@ -1,0 +1,12 @@
+numpy
+pandas
+tqdm
+datasets==2.16.0
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+torch
+transformers
+lightgbm
+joblib
