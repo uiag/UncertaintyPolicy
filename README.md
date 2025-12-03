@@ -7,6 +7,9 @@ The project Uncertainty-Aware Hallucination Detection and Clarifying-Question Po
 </p>
 Images depict results for FLAN-T5-base using the Gradient Boosted Tree policy model
 
+<img width="1930" height="340" alt="image" src="https://github.com/user-attachments/assets/af2fb065-a77c-4c7b-88fd-3130f9948dcf" />
+
+
 # How to run
 1. Use Python 3.12
 2. Install the project requirements via ``pip install -r requirements.txt``
